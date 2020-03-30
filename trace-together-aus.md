@@ -3,7 +3,7 @@
 Authors (in Alphabetic Order): 
 
 Hassan Asghar (Macquarie University), Farhad Farokhi (University of Melbourne), 
-Dali Kaafar (Macquarie University), Ben Rubinstein (University of Melbourne), Dinusha Vatsalan (CSIRO Data61).<sup><a href="#footnote1" id="thanks">1</a></sup>
+Dali Kaafar (Macquarie University), Ben Rubinstein (University of Melbourne).<sup><a href="#footnote1" id="thanks">1</a></sup>
 
 The Australian government is exploring the use of contact tracing mobile apps as a tool for public health officials and communities to fight the spread of the COVID-19 pandemic. 
 “Digital methods can be also used to assist in identifying contacts and to be able to shut those (tracing) issues down as was practiced in Singapore. And so these delivery methods are also being looked at by the Commonwealth, and we're making a lot of progress there." Scott Morrisson, Prime Minister of Australia March 24, 2020. 
